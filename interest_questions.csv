@@ -1,0 +1,13 @@
+Feature,Question,Question Polarity
+Realistic,I enjoy working with tools or machines to fix things like bicycles or gadgets.,Positive
+Realistic,I dislike doing hands-on tasks like building or repairing objects.,Negative
+Investigative,"I like exploring how things work, such as plants, animals, or machines.",Positive
+Investigative,I find it boring to study and solve scientific problems.,Negative
+Artistic,"I enjoy creating drawings, paintings, or music for school events.",Positive
+Artistic,I feel uninterested in activities like writing stories or designing posters.,Negative
+Social,I like helping my classmates with their studies or personal problems.,Positive
+Social,I avoid spending time teaching or supporting others in school.,Negative
+Enterprising,I enjoy leading a team to organize events like a school fair or debate.,Positive
+Enterprising,I don't like taking charge or convincing others to follow my ideas.,Negative
+Conventional,I like keeping my schoolwork organized with clear lists and schedules.,Positive
+Conventional,I find it hard to follow rules or keep my notes in order.,Negative

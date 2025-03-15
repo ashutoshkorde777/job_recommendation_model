@@ -1,0 +1,31 @@
+Feature,Question,Question Polarity
+Achievement/Effort,"I work hard to get the best marks in my class, even when it's tough.",Positive
+Achievement/Effort,I feel satisfied with my work even if I don't finish everything perfectly.,Negative
+Adaptability/Flexibility,I enjoy adjusting my plans when something unexpected happens in school.,Positive
+Adaptability/Flexibility,I get upset when my teachers change the way we do things.,Negative
+Analytical Thinking,I like figuring out why something went wrong in a school project.,Positive
+Analytical Thinking,I avoid spending time thinking about complicated problems.,Negative
+Concern for Others,I feel happy when I help a classmate who is struggling with their studies.,Positive
+Concern for Others,I don't worry about how my classmates are feeling during group work.,Negative
+Cooperation,I enjoy working with others to finish a group task on time.,Positive
+Cooperation,I find it hard to agree with others when we have different ideas.,Negative
+Dependability,My teachers can always count on me to submit my work on time.,Positive
+Dependability,I sometimes forget to do what I promised my classmates or teachers.,Negative
+Independence,I like solving problems on my own without asking for help.,Positive
+Independence,I feel uneasy when I have to complete a task without instructions.,Negative
+Initiative,I start working on my assignments before anyone tells me to.,Positive
+Initiative,I wait for my teachers to remind me before starting my work.,Negative
+Innovation,I enjoy finding new ways to make my school projects more interesting.,Positive
+Innovation,I stick to the same ideas because I don't like trying new things.,Negative
+Integrity,"I always tell the truth, even if it means getting into trouble.",Positive
+Integrity,I sometimes hide my mistakes to avoid problems with my teachers.,Negative
+Leadership,I feel confident leading my classmates during a school event.,Positive
+Leadership,I avoid taking charge because I don't want to be blamed if things go wrong.,Negative
+Persistence,I keep trying to solve a difficult problem until I get it right.,Positive
+Persistence,I stop working on a task if it feels too hard to finish.,Negative
+Self-Control,I stay calm even when I'm upset during a disagreement with a friend.,Positive
+Self-Control,I get angry quickly when things don't go my way in school.,Negative
+Social Orientation,I like spending time with my classmates to plan activities together.,Positive
+Social Orientation,I prefer working alone instead of talking to others in a group.,Negative
+Stress Tolerance,I stay relaxed even when I have a lot of schoolwork to finish.,Positive
+Stress Tolerance,I feel stressed and upset when I have too many tasks to handle.,Negative
